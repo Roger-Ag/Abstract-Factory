@@ -1,0 +1,7 @@
+C:\Users\roger\source\repos\abstractFactory\bin\Debug\abstractFactory.exe.config
+C:\Users\roger\source\repos\abstractFactory\bin\Debug\abstractFactory.exe
+C:\Users\roger\source\repos\abstractFactory\bin\Debug\abstractFactory.pdb
+C:\Users\roger\source\repos\abstractFactory\obj\Debug\abstractFactory.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\abstractFactory\obj\Debug\abstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\abstractFactory\obj\Debug\abstractFactory.exe
+C:\Users\roger\source\repos\abstractFactory\obj\Debug\abstractFactory.pdb
